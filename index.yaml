@@ -5,6 +5,8 @@ entries:
       home: https://github.com/kromanow94/kubeflow-manifests/releases
       name: kubeflow
       version: 0.4.0
+      sources:
+        - https://github.com/kromanow94/kubeflow-manifests/tree/kubeflow-0.4.0/charts/kubeflow
       urls:
         - https://github.com/kromanow94/kubeflow-manifests/releases/download/kubeflow-0.4.0/kubeflow-0.4.0.tgz
 generated: 2025-03-13T16:13:48.402422+09:00
